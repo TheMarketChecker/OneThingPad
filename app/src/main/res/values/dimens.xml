@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_add_it_corner_radius_purple">2dp</dimen>
+    <dimen name="btn_add_it_corner_radius_green">2dp</dimen>
+    <dimen name="btn_add_it_stroke_width">1dp</dimen>
+    <dimen name="iv_logo_size">192dp</dimen>
+    <dimen name="logo_margin">84dp</dimen>
+    <dimen name="btn_add_a_drop_left_right_padding">60dp</dimen>
+    <dimen name="btn_add_a_drop_top_bottom_padding">8dp</dimen>
+    <dimen name="btn_add_a_drop_text_size">28sp</dimen>
+</resources>
